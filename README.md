@@ -5,4 +5,5 @@
 ## To all who would scrape, be kind and limit your requests to less than 80 per second.
 ### Drawings : 12998
 ### Paintings : 5068
-### TOTAL : 18066
+### Prints : 32429
+### TOTAL : 50495
